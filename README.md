@@ -1,0 +1,1 @@
+# git-mingw-w64
